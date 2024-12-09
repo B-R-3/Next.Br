@@ -43,4 +43,4 @@
 
 ## 7. Tester en navigation privée
 - Ouvrez votre navigateur en mode navigation privée et rendez-vous sur l'adresse :  
-  `http://localhost:3000`
+  `http://localhost:3000`, cela désactive ou réduit l'utilisation du cache, garantissant que le navigateur charge toujours les versions les plus récentes de vos fichiers.
