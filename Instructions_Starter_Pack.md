@@ -2,7 +2,7 @@
 # Instructions pour démarrer le projet STARTER PACK
 
 ## 1. Ouvrir Visual Studio Code
-- Lancer le logiciel Visual Studio Code sur votre ordinateur.
+- Lancer le logiciel Visual Studio Code ou votre IDE préféré sur votre ordinateur.
 
 ## 2. Télécharger le projet
 - Utilisez la commande suivante dans le terminal de VSC pour copier le projet :
